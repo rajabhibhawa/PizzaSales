@@ -1,5 +1,5 @@
 # PizzaSales
-In this project, I combine MySQL and PowerBI knowledge by linking them both to make a Visualisation and Double-Checking data about a Pizza Sales.
+In this project, I combine MySQL and PowerBI knowledge by linking them both to make a Interactive Dashboard and Double-Checking data about a Pizza Sales.
 This project will help company to see their Sales and Decision Thinking in the next time to improve their Sales.
 # KPI 
 To see the report of the sales, we must answer this KPI(QUESTION).
